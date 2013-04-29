@@ -6,7 +6,6 @@ class Shortcut
     if @pattern.class == String then
       @pattern = @pattern.chars.to_a
     end
-    # TODO: check that pattern doesn't include symbol itself
   end
 
   def to_s

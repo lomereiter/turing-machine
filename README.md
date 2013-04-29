@@ -21,7 +21,7 @@ Simple emulator of Turing machine
 
 ## Examples
 
-### Replacing 0 with 1, and vice versa:
+### Replacing 0 with 1, and vice versa
 
 ```
 0 0 - 0 1 >
