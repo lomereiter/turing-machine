@@ -32,7 +32,7 @@ Simple emulator of Turing machine
 
 ```
 G = ('α' .. 'ω').to_a - ['β']
-0 G -> 0 G >
-0 β -> 0 α >
+0 G - 0 G >
+0 β - 0 α >
 ```
 
